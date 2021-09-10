@@ -7,7 +7,7 @@ http://pierrehermenicolasbuffe.com/ J'ai choisi ce lien parce que je le trouve f
 ### Lien 2 
 https://www.random-website.com/ J'ai choisi ce lien parce que je le trouve drôle et parce qu'il nous fait découvrir tout sorte de nouveaux sites. C'est un site qui trouve des sites  web au hasard et qui te traine un peu partout sur internet. 
 ### Lien 3 
-https://asoftmurmur.com/ J'adore ce site parce qu'il te permet créer un mix de sons différents. C'est un lien qui t'enmene dans un endroit que tu créais toi même à l'aide sons. Je crois que ça m'aidera à améliorer mon horaire de sommeil.
+https://asoftmurmur.com/ J'adore ce site parce qu'il te permet créer un mix de sons différents. C'est un lien qui t'enmene dans un endroit que tu crées toi même à l'aide de divers sons. Je crois que ça m'aidera à améliorer mon horaire de sommeil.
 
 ### Lien 4 
 https://radiooooo.com/ J'ai choisi ce site parce qu'il nous permet de voyager de toute sorte de façon. Ce que je veux dire c'est qu'il nous permet de voyager dans le monde et dans le temps grâce aux différentes sortes de chansons (selon d'où elles viennent et de l'époque).
