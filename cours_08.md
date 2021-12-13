@@ -11,5 +11,6 @@ Explorer les thèmes dans l'outil de présentation numérique de votre choix. Ch
 
 #### Outil de présentation:    
 Thème 1 | Thème 2 | Thème 3
--- | -- | --
+-- ![café](https://user-images.githubusercontent.com/90428730/145745247-16e15671-8597-43b2-b4c1-71d3a0a540d6.png)
+| -- | --
 Nom du thème  | Nom du thème | Nom du thème 
