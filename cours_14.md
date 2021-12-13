@@ -3,16 +3,17 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+L'histoires des grandes guerres.
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Un jeu vidéo qui a pour but d'apprendre les guerres mondiales en détails en permettant au joueur de participer dans celles-ci.  
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+ 
+[storyboard 2021-12-03 12.39.12.pdf](https://github.com/lorekel/582115_journal_de_bord_Chacon_Lorena/files/7700775/storyboard.2021-12-03.12.39.12.pdf)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![image](https://user-images.githubusercontent.com/90428730/145747776-0bfd6450-e7ab-48d6-8ead-30136da12c32.png) 
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
