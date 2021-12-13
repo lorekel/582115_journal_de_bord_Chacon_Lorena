@@ -16,7 +16,9 @@ Un jeu vidéo qui a pour but d'apprendre les guerres mondiales en détails en pe
 ![image](https://user-images.githubusercontent.com/90428730/145747776-0bfd6450-e7ab-48d6-8ead-30136da12c32.png) 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Programmation
+Création de sons
+Aspect historique(?)
 
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
